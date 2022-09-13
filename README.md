@@ -47,9 +47,9 @@ Finally, open it in `Expo Go` and you can interact with the program via your pho
 
 #### Demo
 
-##### Search
+##### Workflow
 
-<img src='image/blank_result.gif' width='300'/>
+<img src='image/normal_result.gif' width='300'/>
 
 ##### Output Page
 
